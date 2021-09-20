@@ -1,0 +1,14 @@
+C:\Users\CPS-DLLO#3\Desktop\CrudEntityFramework\BlogCore\BlogCore\BlogCoreAccesoDatos\bin\Debug\netcoreapp3.1\BlogCoreAccesoDatos.deps.json
+C:\Users\CPS-DLLO#3\Desktop\CrudEntityFramework\BlogCore\BlogCore\BlogCoreAccesoDatos\bin\Debug\netcoreapp3.1\BlogCoreAccesoDatos.dll
+C:\Users\CPS-DLLO#3\Desktop\CrudEntityFramework\BlogCore\BlogCore\BlogCoreAccesoDatos\bin\Debug\netcoreapp3.1\BlogCoreAccesoDatos.pdb
+C:\Users\CPS-DLLO#3\Desktop\CrudEntityFramework\BlogCore\BlogCore\BlogCoreAccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.Models.dll
+C:\Users\CPS-DLLO#3\Desktop\CrudEntityFramework\BlogCore\BlogCore\BlogCoreAccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.dll
+C:\Users\CPS-DLLO#3\Desktop\CrudEntityFramework\BlogCore\BlogCore\BlogCoreAccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.Models.pdb
+C:\Users\CPS-DLLO#3\Desktop\CrudEntityFramework\BlogCore\BlogCore\BlogCoreAccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.pdb
+C:\Users\CPS-DLLO#3\Desktop\CrudEntityFramework\BlogCore\BlogCore\BlogCoreAccesoDatos\obj\Debug\netcoreapp3.1\BlogCoreAccesoDatos.csprojAssemblyReference.cache
+C:\Users\CPS-DLLO#3\Desktop\CrudEntityFramework\BlogCore\BlogCore\BlogCoreAccesoDatos\obj\Debug\netcoreapp3.1\BlogCoreAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\CPS-DLLO#3\Desktop\CrudEntityFramework\BlogCore\BlogCore\BlogCoreAccesoDatos\obj\Debug\netcoreapp3.1\BlogCoreAccesoDatos.AssemblyInfo.cs
+C:\Users\CPS-DLLO#3\Desktop\CrudEntityFramework\BlogCore\BlogCore\BlogCoreAccesoDatos\obj\Debug\netcoreapp3.1\BlogCoreAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\CPS-DLLO#3\Desktop\CrudEntityFramework\BlogCore\BlogCore\BlogCoreAccesoDatos\obj\Debug\netcoreapp3.1\BlogCoreAccesoDatos.csproj.CopyComplete
+C:\Users\CPS-DLLO#3\Desktop\CrudEntityFramework\BlogCore\BlogCore\BlogCoreAccesoDatos\obj\Debug\netcoreapp3.1\BlogCoreAccesoDatos.dll
+C:\Users\CPS-DLLO#3\Desktop\CrudEntityFramework\BlogCore\BlogCore\BlogCoreAccesoDatos\obj\Debug\netcoreapp3.1\BlogCoreAccesoDatos.pdb
